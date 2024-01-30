@@ -13,4 +13,11 @@ Diving deeper into the elderly-technology gap, low vision and hearing impairment
 
 It is very important to ask the concerned users what are their needs, and how we can meet them. That is why our team conducted a survey with very specific questions that target seniors’ diverse needs. Those questions are mostly focused on the health aspect of our users. 
 
-Our app aims to not only encourage socialization and physical activity, but it also serves as a motivational tool for users to delve into their hobbies and lead more vibrant lives. Most importantly, the application would foster a sense of purpose and joy among seniors.
+Our app aims to not only encourage socialization and physical activity, but it also serves as a motivational tool for users to delve into their hobbies and lead more vibrant lives. Most importantly, the application would foster a sense of purpose and joy among seniors. (to be edited)
+
+## The Research:
+
+### Survey
+
+In the pursuit of designing an application catered to the well-being of the elderly, we initiated a comprehensive survey aimed at unraveling key insights from various perspectives. With a focus on individuals aged 60 and above, the survey encompassed diverse topics, ranging from technology comfort levels to preferences in social interaction and health-monitoring features. For a holistic understanding, we extended an invitation to those not within the elderly demographic to imagine and respond on behalf of an elderly person they know well. The objective was to capture nuanced insights into the potential needs and preferences of the elderly demographic, ensuring our application is both inclusive and responsive to their diverse requirements. The survey served as a pivotal tool in unveiling essential user perspectives, guiding our design decisions towards creating a truly user-centric solution.
+
