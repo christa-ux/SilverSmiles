@@ -1,6 +1,7 @@
 <p align="center">
  <img src="photos/logo.png"/></p>
 ## Introduction
+
 As technology advances and life expectancy increases, the aging population often feels left-out due to inaccessible technology. This problem became evident during the Covid-19 pandemic, as the world heavily relied on digital connectivity, and social isolation affecting seniors’ physical and mental health. 
 
 Our mission is to close the gap with SilverSmiles, an app that engaged the elderly in the development process, and that is specifically tailored to their nuanced needs.
