@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" height="50%">
  <img src="photos/logo.png"/></p>
  
 ## Introduction
@@ -32,6 +32,7 @@ In the pursuit of designing an application catered to the well-being of the elde
 </p>
 
 ### Analysis
+As we can see from the results, almost all participants 
 
 ## User Personas
 <p align="center">
