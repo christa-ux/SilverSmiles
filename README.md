@@ -1,4 +1,5 @@
-<img src="photos/logo.png"/>
+<p align="center">
+ <img src="photos/logo.png"/></p>
 ## Introduction
 As technology advances and life expectancy increases, the aging population often feels left-out due to inaccessible technology. This problem became evident during the Covid-19 pandemic, as the world heavily relied on digital connectivity, and social isolation affecting seniors’ physical and mental health. 
 
@@ -22,7 +23,9 @@ In the pursuit of designing an application catered to the well-being of the elde
 
 
 ## User Personas
+<p align="center">
  <img src="photos/user personas/userPersona1.png"/>
  <img src="photos/user personas/userPersona2.png"/>
  <img src="photos/user personas/userPersona3.png"/>
+ </p>
  
