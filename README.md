@@ -26,9 +26,9 @@ In the pursuit of designing an application catered to the well-being of the elde
 
 ### Results
 <p align="center">
-<img src="photos/survey1.png" width="500">
-<img src="photos/survey2.png" width="500" height="255">
-<img src="photos/survey3.png">
+<img src="photos/survey/survey1.png" width="500">
+<img src="photos/survey/survey2.png" width="500" height="255">
+<img src="photos/survey/survey3.png">
 </p>
 
 ### Analysis
