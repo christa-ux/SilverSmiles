@@ -23,12 +23,18 @@ Our app aims to not only encourage socialization and physical activity, but it a
 
 In the pursuit of designing an application catered to the well-being of the elderly, we initiated a comprehensive survey aimed at unraveling key insights from various perspectives. With a focus on individuals aged 60 and above, the survey encompassed diverse topics, ranging from technology comfort levels to preferences in social interaction and health-monitoring features. For a holistic understanding, we extended an invitation to those not within the elderly demographic to imagine and respond on behalf of an elderly person they know well. The objective was to capture nuanced insights into the potential needs and preferences of the elderly demographic, ensuring our application is both inclusive and responsive to their diverse requirements. The survey served as a pivotal tool in unveiling essential user perspectives, guiding our design decisions towards creating a truly user-centric solution.
 
-<p align="center">
-<img src="photos/survey1.png">
-<img src="photos/survey2.png">
-<img src="photos/survey3.png">
+### Results
 
+<p float="left" >
+<img src="photos/survey1.png" width="500">
+<img src="photos/survey2.png" width="500">
 </p>
+<p align="center">
+<img src="photos/survey3.png" width="700">
+</p>
+
+### Analysis
+
 
 ## User Personas
 <p align="center">
