@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src=" ![Screenshot (10)](https://github.com/christa-ux/SilverSmiles/assets/82023874/c59cd05f-70ff-4eea-8e65-de815a78b958)"/>
+<img src=" Screenshot (10).png"/>
 </p>
 
 ## Introduction
