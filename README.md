@@ -32,7 +32,11 @@ In the pursuit of designing an application catered to the well-being of the elde
 </p>
 
 ### Analysis
-As we can see from the results, almost all participants 
+As we can see from the results, almost all participants would rely on an app to help them monitor their health. Particularly, an app that provides medication reminders 
+
+
+
+
 
 ## User Personas
 <p align="center">
