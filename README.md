@@ -46,8 +46,9 @@ As we can see from the results, almost all participants would rely on an app to 
  </p>
 
  ## Color Palette
-In designing our app, SilverSmiles, tailored for the elderly, we prioritized a color palette that enhances visibility, readability, and emotional well-being. Our selection includes navy blue and red, creating a distinctive effect between elements, complemented by beige and gray to create a calming effects. 
+In designing our app, SilverSmiles, tailored for the elderly, we prioritized a color palette that enhances visibility, readability, and emotional well-being.  We meticulously chose our colors based on a <a href="https://eldertech.org/color-in-designing-technology-for-seniors/#:~:text=Navy%20blue%2C%20sky%20blue%2C%20and%20aquamarine%20are%20particular,Blue%20can%20reduce%20mental%20excitability%20and%20help%20concentration" target="_blank"> past research</a> involving elderly participants, aiming to identify color preferences among our target demographic. 
 
+High contrast between text and background colors was a critical factor, ensuring that all information is easily readable for users with varying degrees of vision clarity, and carefully considering the needs of those with color blindness. 
  The formal names of the colors that we opted for in the app are : 
  -Space cadet 
  
@@ -58,11 +59,12 @@ In designing our app, SilverSmiles, tailored for the elderly, we prioritized a c
  -Light Silver
  
 
- 
- 
-High contrast between text and background colors was a critical factor, ensuring that all information is easily readable for users with varying degrees of vision clarity, and carefully considering the needs of those with color blindness. 
+ <p align="center">
+ <img src="photos/color-palette.png"/>
+ </p>
 
-The simplicity and clarity of this palette support an intuitive navigation experience, crucial for our elderly users who may be less familiar with digital apps. Results from a past research, . The result is an app that is not only accessible and easy to use for the elderly but also promotes a sense of warmth and safety, aligning with our goal to make health management a comfortable and stress-free part of their daily routine
+
+
  
 
  ## References
