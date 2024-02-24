@@ -65,6 +65,13 @@ High contrast between text and background colors was a critical factor, ensuring
  </p>
 
 
+## Typography
+
+We chose 2 fonts for our app: Gravitas One, and Tito Bangla. Both embody a sense of safety and elegance. However, the reason for two fonts is that we wanted to make a distinction between the primary elements of the app such as buttons and headers (represented with Gravitas One), and the secondary elements of the app, which are instructions for the users to guide them in the navigation of the app (represented with Tito Bangla). 
+
+
+
+
 
  
 
