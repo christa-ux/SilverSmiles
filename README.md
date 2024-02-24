@@ -46,14 +46,23 @@ As we can see from the results, almost all participants would rely on an app to 
  </p>
 
  ## Color Palette
+In designing our app, SilverSmiles, tailored for the elderly, we prioritized a color palette that enhances visibility, readability, and emotional well-being. Our selection includes navy blue and red, creating a distinctive effect between elements, complemented by beige and gray to create a calming effects. 
 
- The main colors that we chose for our app are: 
+ The formal names of the colors that we opted for in the app are : 
  -Space cadet 
+ 
  -Deep Carmine Pink
+ 
  -Quartz
+ 
  -Light Silver
+ 
 
  
+ 
+High contrast between text and background colors was a critical factor, ensuring that all information is easily readable for users with varying degrees of vision clarity, and carefully considering the needs of those with color blindness. 
+
+The simplicity and clarity of this palette support an intuitive navigation experience, crucial for our elderly users who may be less familiar with digital apps. Results from a past research, . The result is an app that is not only accessible and easy to use for the elderly but also promotes a sense of warmth and safety, aligning with our goal to make health management a comfortable and stress-free part of their daily routine
  
 
  ## References
