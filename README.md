@@ -50,6 +50,7 @@ In designing our app, SilverSmiles, tailored for the elderly, we prioritized a c
 
 High contrast between text and background colors was a critical factor, ensuring that all information is easily readable for users with varying degrees of vision clarity, and carefully considering the needs of those with color blindness. 
  The formal names of the colors that we opted for in the app are : 
+
  -Space cadet 
  
  -Deep Carmine Pink
