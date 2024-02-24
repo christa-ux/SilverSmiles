@@ -1,5 +1,5 @@
 <p align="center" height="50%">
- <img src="photos/logo.png"/></p>
+ <img src="photos/logo-blue-bg.png"/></p>
  
 ## Introduction
 
