@@ -45,6 +45,9 @@ As we can see from the results, almost all participants would rely on an app to 
  <img src="photos/user personas/userPersona3.png"/>
  </p>
 
+ ## Color Palette
+ 
+ 
 
  ## References
  https://eldertech.org/color-in-designing-technology-for-seniors/#:~:text=Navy%20blue%2C%20sky%20blue%2C%20and%20aquamarine%20are%20particular,Blue%20can%20reduce%20mental%20excitability%20and%20help%20concentration.
