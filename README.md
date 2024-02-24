@@ -46,6 +46,13 @@ As we can see from the results, almost all participants would rely on an app to 
  </p>
 
  ## Color Palette
+
+ The main colors that we chose for our app are: 
+ -Space cadet 
+ -Deep Carmine Pink
+ -Quartz
+ -Light Silver
+
  
  
 
