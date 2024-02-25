@@ -32,7 +32,7 @@ In the pursuit of designing an application catered to the well-being of the elde
 </p>
 
 ### Analysis
-As we can see from the results, almost all participants would rely on an app to help them monitor their health. Particularly, an app that provides medication reminders 
+As we can see from the results, almost all participants would rely on an app to help them monitor their health. Particularly, an app that provides medication reminders. In addition,  
 
 
 
@@ -67,13 +67,41 @@ High contrast between text and background colors was a critical factor, ensuring
 
 ## Typography
 
-We chose 2 fonts for our app: Gravitas One, and Tito Bangla. Both embody a sense of safety and elegance. However, the reason for two fonts is that we wanted to make a distinction between the primary elements of the app such as buttons and headers (represented with Gravitas One), and the secondary elements of the app, which are instructions for the users to guide them in the navigation of the app (represented with Tito Bangla). 
+We chose 2 fonts for our app: Gravitas One, and Tiro Bangla. Both embody a sense of safety and elegance. However, the reason for two fonts is that we wanted to make a distinction between the primary elements of the app such as buttons and headers (represented with Gravitas One), and the secondary elements of the app, which are instructions for the users to guide them in the navigation of the app (represented with Tiro Bangla). 
 
+#### Gravitas One
 
-
-
-
+ <p align="center">
+ <img src="photos/gravitasOne.png"/>
+ </p>
  
+#### Tiro Bangla
+
+ <p align="center">
+ <img src="photos/tiroBangla.png"/>
+ </p>
+
+
+## Name 
+
+The name "SilverSmiles" was carefully crafted to reflect both the dignity and the joy of aging. We chose "Silver" to honor the wisdom and experience that comes with age, symbolizing the richness of life's journey. "Smiles" was selected to represent the essence of happiness, positivity, and connection that we aim to foster within our community of elderly users. By combining these elements, we wanted to create a name that not only acknowledges the challenges of aging but also celebrates the moments of laughter, camaraderie, and fulfillment that are integral to the senior experience. Our purpose in choosing this name was to create a platform that not only provides support and resources for the elderly but also cultivates a sense of belonging, purpose, and joy in their lives, ultimately promoting their overall well-being and quality of life.
+
+## LOGO
+
+The logo of SilverSmiles features an old-fashioned hat with two canes crossed behind it, chosen for its symbolic representation of tradition, stability, and support. The hat conjures images of a bygone era, evoking nostalgia and honoring the rich life experiences of the elderly. The crossed canes serve as visual cues of assistance and guidance, reflecting our commitment to providing support and care for our elderly users. The phrase "Elderly, original influencer" accompanying the logo further emphasizes our recognition of the senior population as influential individuals with valuable insights and perspectives to share. Through this logo, we aim to convey a message of respect, empowerment, and inclusivity, while also signifying our mission to enrich the lives of the elderly by fostering connections, promoting well-being, and celebrating their contributions to society
+
+ ## Brand Story 
+
+Help elderly people to enhance their mental well being by socializing with other elderly having the same interests, plus reminding them with their medications.
+
+## Final design
+
+We gathered the results of our survey to design the app in a way it makes our target users satisfied. 
+
+
+## Conclusion
+
+In conclusion, the SilverSmiles project represents a heartfelt commitment to honoring and empowering the elderly community. Through thoughtful branding, including the carefully chosen name and logo, we have endeavored to create more than just an app; we've built a supportive and inclusive digital space where seniors can find companionship, resources, and joy. By recognizing the wisdom and influence of our elderly users and providing them with the tools and support they need, SilverSmiles aims to enhance their quality of life, foster connections, and celebrate the invaluable contributions they continue to make to society. As we embark on this journey, we are inspired by the opportunity to make a meaningful difference in the lives of our beloved seniors, ensuring that their silver years are filled with smiles, laughter, and fulfillment.
 
  ## References
  https://eldertech.org/color-in-designing-technology-for-seniors/#:~:text=Navy%20blue%2C%20sky%20blue%2C%20and%20aquamarine%20are%20particular,Blue%20can%20reduce%20mental%20excitability%20and%20help%20concentration.
