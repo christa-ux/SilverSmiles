@@ -84,7 +84,10 @@ When creating Isabelle’s persona, we can see that she wants to stay informed, 
  </p>
 
  ## Sketches
-[Section.pdf](https://github.com/christa-ux/SilverSmiles/files/14398161/Section.pdf)
+ ![Section-1](https://github.com/christa-ux/SilverSmiles/assets/144529070/a87c6268-e7c7-40e9-b88e-49426297abc8)
+
+
+
 
  ## Wireframe
  ![Wireframe](https://github.com/christa-ux/SilverSmiles/assets/144529070/17cc404e-b4f3-4416-a30c-9a056a43400f)
