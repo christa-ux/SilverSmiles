@@ -45,10 +45,24 @@ As we can see from the results, almost all participants would rely on an app to 
  <img src="photos/user personas/userPersona3.png"/>
  </p>
 
- #### Why did we chose those personas? 
+ #### Why did we choose those personas? 
 
 Isabelle, Marie, and Jaques are the personas chosen for SilverSmiles because they represent a wide range of the elderly, each with their own goals and needs that align with the mission of the project.
 The development team uses these personas to understand users’s needs, goals, and experiences. Thus, enabling the team to design an app that caters to user needs and is user-centric. SilverSmiles can ensure accessibility and inclusivity with benefits to a diverse range of elderly users by focusing on these personas.
+
+ #### Isabelle's user goals 
+
+When creating Isabelle’s persona, we can see that she wants to stay informed, manage her health,  explore new hobbies, and share the pleasures of life with her family. Her goals align with the goals of SilverSmiles, which is to help elders stimulate their minds through various activities and lead vibrant lives. As with the other personas, Isabelle doesn't want a complicated experience, she just wants an app that is easy and simple to use, which helps her be healthy and experience new activities
+
+ #### Jacques' user goals 
+
+ With Marie’s persona, her goals are to combat loneliness, stay connected with friends and family, engage in various activities, and easily access food services through the app. SilverSmiles goals help achieve that because we want to foster connections among elders and help them find companionship.
+
+ #### Marie's user goals 
+
+ For Jaques’s persona, he aims to connect with his friends, be a part of hobby groups with similar interests, and receive personalized messages when he achieves a milestone or completes an activity. SilverSmiles wants to accomplish this by making a community for seniors, specifically for the ones that live alone.
+
+
 
 
  ## Color Palette
