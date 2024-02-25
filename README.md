@@ -62,7 +62,24 @@ When creating Isabelle’s persona, we can see that she wants to stay informed, 
 
  For Jaques’s persona, he aims to connect with his friends, be a part of hobby groups with similar interests, and receive personalized messages when he achieves a milestone or completes an activity. SilverSmiles wants to accomplish this by making a community for seniors, specifically for the ones that live alone.
 
+ ## Isabelle Lavoie's User Journey
+ <p align="center">
+ <img src="photos\user journey\User journey for Isabelle.jpg"/>
+ </p>
 
+ ## User Flow
+<p align="center">
+ <img src="photos\user flow chart\User flow 1.jpg"/>
+ <img src="photos\user flow chart\User flow 2.jpg"/>
+ <img src="photos\user flow chart\User flow 3.jpg"/>
+ <img src="photos\user flow chart\User flow 4.jpg"/>
+ <img src="photos\user flow chart\User flow 5.jpg"/>
+ </p>
+
+ ## The Full Flow Chart
+<p align="center">
+ <img src="photos\user flow chart\full flow chart.jpg"/>
+ </p>
 
 
  ## Color Palette
