@@ -32,7 +32,7 @@ In the pursuit of designing an application catered to the well-being of the elde
 </p>
 
 ### Analysis
-As we can see from the results, almost all participants would rely on an app to help them monitor their health. Particularly, an app that provides medication reminders. In addition,  
+As we can see from the results, 81% of people who participated in the survey would rely on an app to help them monitor their health. They would particularly want an app that provides medication reminders. In addition, almost 50% of the participants highly value social interaction and community engagement for their well-being. 76.2% of participants found health and wellness, family/relationships/communications, and personal development the most interesting. In second place with 52.4% is cooking/nutrition. From the survey results, the SilverSmiles development team designed the app to aid the elderly in taking part in what they find interesting, to better their health and well-being. As shown in the user flow and sketches below, the app mainly revolves around old people being able to communicate and talk about cooking, music, and reading.
 
 
 
