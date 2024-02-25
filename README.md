@@ -63,6 +63,8 @@ When creating Isabelle’s persona, we can see that she wants to stay informed, 
  For Jaques’s persona, he aims to connect with his friends, be a part of hobby groups with similar interests, and receive personalized messages when he achieves a milestone or completes an activity. SilverSmiles wants to accomplish this by making a community for seniors, specifically for the ones that live alone.
 
  ## Isabelle Lavoie's User Journey
+ Delving into Isabelle's user journey allows us to understand and discover potential troubles users may encounter. Additionally, it enables us to avoid or mitigate these issues in the future. 
+
  <p align="center">
  <img src="photos\user journey\User journey for Isabelle.jpg"/>
  </p>
