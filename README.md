@@ -8,6 +8,8 @@
  Ibrahim Elyyan -- 40167982
 
  Jose Semaan -- 40244141
+
+ The link: https://christa-ux.github.io/SilverSmiles/   
  
 ## Introduction
 
@@ -23,9 +25,19 @@ Diving deeper into the elderly-technology gap, low vision and hearing impairment
 
 It is very important to ask the concerned users what are their needs, and how we can meet them. That is why our team conducted a survey with very specific questions that target seniors’ diverse needs. Those questions are mostly focused on the health aspect of our users. 
 
-Our app aims to not only encourage socialization and physical activity, but it also serves as a motivational tool for users to delve into their hobbies and lead more vibrant lives. Most importantly, the application would foster a sense of purpose and joy among seniors. (to be edited)
+Our app aims to encourage socialization, and it also serves as a motivational tool for users to delve into their hobbies and lead more vibrant lives. Most importantly, the application would foster a sense of purpose and joy among seniors. 
 
-## The Research
+## Market Research 
+
+Research by <a href="https://www.pewresearch.org/internet/2017/05/17/technology-use-among-seniors/" target="_blank"> Pew Research Center </a> reveals that while there's a digital divide, a significant portion of seniors are more connected than ever. Approximately four in ten seniors now own smartphones, a figure that has more than doubled since 2013. Internet use among seniors has steadily increased, with 67% of those aged 65 and older reporting they go online, and about half (51%) having high-speed internet at home. Additionally, social media use among this demographic has been on the rise, with 34% of Americans aged 65 and up engaging in social networking sites, marking a seven-point increase from 2013
+
+Further insights from <a href="https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/digital-seniors/" target="_blank">Think with Google </a> underscore the stereotype-breaking digital habits of today's seniors. A majority of online seniors spend at least six hours a day online and own an average of five devices, showcasing a group that's deeply engaged with the digital world. These "digital seniors" are not only avid internet users but also active on platforms like YouTube, reflecting their enthusiasm for staying connected and updated with technology. This demographic's digital literacy is significant, with 86% being classified as tech enthusiasts who are actively seeking out digital content for various purposes, including health and wellness and staying in touch with friends and family. 
+
+
+
+
+
+## Our Research
 
 ### Purpose
 
@@ -161,4 +173,8 @@ In conclusion, the SilverSmiles project represents a heartfelt commitment to hon
 
 ## References
 
-<a href="https://eldertech.org/color-in-designing-technology-for-seniors/#:~:text=Navy%20blue%2C%20sky%20blue%2C%20and%20aquamarine%20are%20particular,Blue%20can%20reduce%20mental%20excitability%20and%20help%20concentration" target="_blank"> Past Research on the elderly's favorite colors! </a>
+<a href="https://eldertech.org/color-in-designing-technology-for-seniors/#:~:text=Navy%20blue%2C%20sky%20blue%2C%20and%20aquamarine%20are%20particular,Blue%20can%20reduce%20mental%20excitability%20and%20help%20concentration" target="_blank"> Elderly Colors </a>
+
+<a href="https://www.pewresearch.org/internet/2017/05/17/technology-use-among-seniors/" target="_blank"> Pew Research Center </a>
+
+<a href="https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/digital-seniors/" target="_blank">Think with Google </a>
