@@ -129,13 +129,11 @@ The logo of SilverSmiles features an old-fashioned hat with two canes crossed be
 
  ## Brand Story 
 
-Help elderly people to enhance their mental well being by socializing with other elderly having the same interests, plus reminding them with their medications.
+To help the elderly people enhance their mental well-being by socializing with other elderly having the same interests, as well as reminding them with their medications.
 
 ## Final design
 
-[![SilverSmiles prototype](([https://youtu.be/w40YAAqqkI4](https://youtu.be/w40YAAqqkI4?si=t7zJsy7TlYxYoh1D)))
-
-
+[![SilverSmiles prototype](photos/thumbnail.png)](https://youtu.be/w40YAAqqkI4?si=8yEST2DMUJl7JyOv)
 ## Conclusion
 
 In conclusion, the SilverSmiles project represents a heartfelt commitment to honoring and empowering the elderly community. Through thoughtful branding, including the carefully chosen name and logo, we have endeavored to create more than just an app; we've built a supportive and inclusive digital space where seniors can find companionship, resources, and joy. By recognizing the wisdom and influence of our elderly users and providing them with the tools and support they need, SilverSmiles aims to enhance their quality of life, foster connections, and celebrate the invaluable contributions they continue to make to society. As we embark on this journey, we are inspired by the opportunity to make a meaningful difference in the lives of our beloved seniors, ensuring that their silver years are filled with smiles, laughter, and fulfillment.
