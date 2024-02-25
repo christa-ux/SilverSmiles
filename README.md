@@ -45,24 +45,24 @@ As we can see from the results, 81% of people who participated in the survey wou
  <img src="photos/user personas/userPersona3.png"/>
  </p>
 
- #### Why did we choose those personas? 
+#### Why did we choose those personas? 
 
 Isabelle, Marie, and Jaques are the personas chosen for SilverSmiles because they represent a wide range of the elderly, each with their own goals and needs that align with the mission of the project.
 The development team uses these personas to understand users’s needs, goals, and experiences. Thus, enabling the team to design an app that caters to user needs and is user-centric. SilverSmiles can ensure accessibility and inclusivity with benefits to a diverse range of elderly users by focusing on these personas.
 
- #### Isabelle's user goals 
+#### Isabelle's user goals 
 
 When creating Isabelle’s persona, we can see that she wants to stay informed, manage her health,  explore new hobbies, and share the pleasures of life with her family. Her goals align with the goals of SilverSmiles, which is to help elders stimulate their minds through various activities and lead vibrant lives. As with the other personas, Isabelle doesn't want a complicated experience, she just wants an app that is easy and simple to use, which helps her be healthy and experience new activities
 
- #### Jacques' user goals 
+#### Jacques' user goals 
 
  With Marie’s persona, her goals are to combat loneliness, stay connected with friends and family, engage in various activities, and easily access food services through the app. SilverSmiles goals help achieve that because we want to foster connections among elders and help them find companionship.
 
- #### Marie's user goals 
+#### Marie's user goals 
 
  For Jaques’s persona, he aims to connect with his friends, be a part of hobby groups with similar interests, and receive personalized messages when he achieves a milestone or completes an activity. SilverSmiles wants to accomplish this by making a community for seniors, specifically for the ones that live alone.
 
- ## Isabelle Lavoie's User Journey
+## Isabelle Lavoie's User Journey
  Delving into Isabelle's user journey allows us to understand and discover potential troubles users may encounter. Additionally, it enables us to avoid or mitigate these issues in the future. 
 
  <p align="center">
@@ -78,7 +78,7 @@ When creating Isabelle’s persona, we can see that she wants to stay informed, 
  <img src="photos\user flow chart\User flow 4.jpg"/>
  </p>
 
- ## The Full Flow Chart
+## The Full Flow Chart
 <p align="center">
  <img src="photos\user flow chart\full flow chart.jpg"/>
  </p>
@@ -89,13 +89,13 @@ When creating Isabelle’s persona, we can see that she wants to stay informed, 
 
 
 
- ## Wireframe
+## Wireframe
  ![Wireframe](https://github.com/christa-ux/SilverSmiles/assets/144529070/17cc404e-b4f3-4416-a30c-9a056a43400f)
 
 
 
 
- ## Color Palette
+## Color Palette
 In designing our app, SilverSmiles, tailored for the elderly, we prioritized a color palette that enhances visibility, readability, and emotional well-being.  We meticulously chose our colors based on a <a href="https://eldertech.org/color-in-designing-technology-for-seniors/#:~:text=Navy%20blue%2C%20sky%20blue%2C%20and%20aquamarine%20are%20particular,Blue%20can%20reduce%20mental%20excitability%20and%20help%20concentration" target="_blank"> past research</a> involving elderly participants, aiming to identify color preferences among our target demographic. 
 
 High contrast between text and background colors was a critical factor, ensuring that all information is easily readable for users with varying degrees of vision clarity, and carefully considering the needs of those with color blindness. 
@@ -140,7 +140,7 @@ The name "SilverSmiles" was carefully crafted to reflect both the dignity and th
 
 The logo of SilverSmiles features an old-fashioned hat with two canes crossed behind it, chosen for its symbolic representation of tradition, stability, and support. The hat conjures images of a bygone era, evoking nostalgia and honoring the rich life experiences of the elderly. The crossed canes serve as visual cues of assistance and guidance, reflecting our commitment to providing support and care for our elderly users. The phrase "Elderly, original influencer" accompanying the logo further emphasizes our recognition of the senior population as influential individuals with valuable insights and perspectives to share. Through this logo, we aim to convey a message of respect, empowerment, and inclusivity, while also signifying our mission to enrich the lives of the elderly by fostering connections, promoting well-being, and celebrating their contributions to society
 
- ## Brand Story 
+## Brand Story 
 
 To help the elderly people enhance their mental well-being by socializing with other elderly having the same interests, as well as reminding them with their medications.
 
@@ -151,5 +151,5 @@ To help the elderly people enhance their mental well-being by socializing with o
 
 In conclusion, the SilverSmiles project represents a heartfelt commitment to honoring and empowering the elderly community. Through thoughtful branding, including the carefully chosen name and logo, we have endeavored to create more than just an app; we've built a supportive and inclusive digital space where seniors can find companionship, resources, and joy. By recognizing the wisdom and influence of our elderly users and providing them with the tools and support they need, SilverSmiles aims to enhance their quality of life, foster connections, and celebrate the invaluable contributions they continue to make to society. As we embark on this journey, we are inspired by the opportunity to make a meaningful difference in the lives of our beloved seniors, ensuring that their silver years are filled with smiles, laughter, and fulfillment.
 
- ## References
+## References
  https://eldertech.org/color-in-designing-technology-for-seniors/#:~:text=Navy%20blue%2C%20sky%20blue%2C%20and%20aquamarine%20are%20particular,Blue%20can%20reduce%20mental%20excitability%20and%20help%20concentration.
