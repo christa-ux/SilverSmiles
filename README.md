@@ -45,6 +45,12 @@ As we can see from the results, almost all participants would rely on an app to 
  <img src="photos/user personas/userPersona3.png"/>
  </p>
 
+ #### Why did we chose those personas? 
+
+Isabelle, Marie, and Jaques are the personas chosen for SilverSmiles because they represent a wide range of the elderly, each with their own goals and needs that align with the mission of the project.
+The development team uses these personas to understand users’s needs, goals, and experiences. Thus, enabling the team to design an app that caters to user needs and is user-centric. SilverSmiles can ensure accessibility and inclusivity with benefits to a diverse range of elderly users by focusing on these personas.
+
+
  ## Color Palette
 In designing our app, SilverSmiles, tailored for the elderly, we prioritized a color palette that enhances visibility, readability, and emotional well-being.  We meticulously chose our colors based on a <a href="https://eldertech.org/color-in-designing-technology-for-seniors/#:~:text=Navy%20blue%2C%20sky%20blue%2C%20and%20aquamarine%20are%20particular,Blue%20can%20reduce%20mental%20excitability%20and%20help%20concentration" target="_blank"> past research</a> involving elderly participants, aiming to identify color preferences among our target demographic. 
 
