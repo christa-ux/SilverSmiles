@@ -1,7 +1,7 @@
 <p align="center" height="50%">
  <img src="photos/logo-blue-bg.jpg"/></p>
 
- ## The Team
+## The Team
 
  Christa Abou Arraje -- 40226631
 
