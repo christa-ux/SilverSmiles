@@ -69,7 +69,7 @@ When creating Isabelle’s persona, we can see that she wants to stay informed, 
  <img src="photos\user journey\User journey for Isabelle.jpg"/>
  </p>
 
- ## User Flow
+## User Flow
 <p align="center">
  <img src="photos\user flow chart\User flow 1.jpg"/>
  <img src="photos\user flow chart\User flow 2.jpg"/>
@@ -83,7 +83,7 @@ When creating Isabelle’s persona, we can see that she wants to stay informed, 
  <img src="photos\user flow chart\full flow chart.jpg"/>
  </p>
 
- ## Sketches
+## Sketches
  ![Section-1](https://github.com/christa-ux/SilverSmiles/assets/144529070/a87c6268-e7c7-40e9-b88e-49426297abc8)
 
 
