@@ -133,7 +133,7 @@ Help elderly people to enhance their mental well being by socializing with other
 
 ## Final design
 
-[![SilverSmiles prototype](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]((https://youtu.be/w40YAAqqkI4))
+[![SilverSmiles prototype](([https://youtu.be/w40YAAqqkI4](https://youtu.be/w40YAAqqkI4?si=t7zJsy7TlYxYoh1D)))
 
 
 ## Conclusion
