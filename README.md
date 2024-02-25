@@ -72,8 +72,8 @@ When creating Isabelle’s persona, we can see that she wants to stay informed, 
  <img src="photos\user flow chart\User flow 1.jpg"/>
  <img src="photos\user flow chart\User flow 2.jpg"/>
  <img src="photos\user flow chart\User flow 3.jpg"/>
- <img src="photos\user flow chart\User flow 4.jpg"/>
  <img src="photos\user flow chart\User flow 5.jpg"/>
+ <img src="photos\user flow chart\User flow 4.jpg"/>
  </p>
 
  ## The Full Flow Chart
