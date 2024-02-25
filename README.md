@@ -1,5 +1,13 @@
 <p align="center" height="50%">
  <img src="photos/logo-blue-bg.jpg"/></p>
+
+ ## The Team
+
+ Christa Abou Arraje -- 40226631
+
+ Ibrahim Elyyan -- 40167982
+
+ Jose Semaan -- 40244141
  
 ## Introduction
 
