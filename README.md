@@ -83,6 +83,14 @@ When creating Isabelle’s persona, we can see that she wants to stay informed, 
  <img src="photos\user flow chart\full flow chart.jpg"/>
  </p>
 
+ ## Sketches
+[Section.pdf](https://github.com/christa-ux/SilverSmiles/files/14398161/Section.pdf)
+
+ ## Wireframe
+ ![Wireframe](https://github.com/christa-ux/SilverSmiles/assets/144529070/17cc404e-b4f3-4416-a30c-9a056a43400f)
+
+
+
 
  ## Color Palette
 In designing our app, SilverSmiles, tailored for the elderly, we prioritized a color palette that enhances visibility, readability, and emotional well-being.  We meticulously chose our colors based on a <a href="https://eldertech.org/color-in-designing-technology-for-seniors/#:~:text=Navy%20blue%2C%20sky%20blue%2C%20and%20aquamarine%20are%20particular,Blue%20can%20reduce%20mental%20excitability%20and%20help%20concentration" target="_blank"> past research</a> involving elderly participants, aiming to identify color preferences among our target demographic. 
