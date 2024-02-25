@@ -72,13 +72,13 @@ We chose 2 fonts for our app: Gravitas One, and Tiro Bangla. Both embody a sense
 #### Gravitas One
 
  <p align="center">
- <img src="photos/gravitasOne.png"/>
+ <img src="photos/fonts/gravitasOne.png"/>
  </p>
  
 #### Tiro Bangla
 
  <p align="center">
- <img src="photos/tiroBangla.png"/>
+ <img src="photos/fonts/tiroBangla.png"/>
  </p>
 
 
